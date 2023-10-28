@@ -1,0 +1,116 @@
+commit 0bf15b7549e919c8328b65ceccde0554cf2589b6
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 15:32:21 2023 -0500
+
+    Agregando 2 párrafos
+
+commit 69e94a0f5fac748976e1fdd7e5e2eded72c080ba
+Merge: c482179 1efbf59
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 15:30:49 2023 -0500
+
+    Resolvinedo conflicto en estaciones del año con fecha de inicio
+
+commit c482179326dc128fd24fa8c96e004d83a14d8d21
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 15:28:03 2023 -0500
+
+    Resolvinedo conflicto en  estaciones del año con la fecha de inicio
+
+commit bb4f4e9a1141d68e702ce6a9a334b4441d1e706c
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 15:18:32 2023 -0500
+
+    Agregando estaciones del año con la fecha
+
+commit 1efbf59421acd4d8961f964f12c70bd37300cd51
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 15:18:32 2023 -0500
+
+    Agregando las estaciones del año
+
+commit 49faab7b49cdfdb400e9961564c9adb82f43c85d
+Merge: e877e86 9dec9ca
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 15:14:35 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 9dec9cab33db6cda2341cf6fb5fc9ee5666502b7
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 15:09:07 2023 -0500
+
+    Agregando index.js al index.htmlç
+
+commit 39d2e69a7c6946fdb86c5531e5ec8f73be4839e3
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 15:07:50 2023 -0500
+
+    eliminando html
+
+commit e877e8693f9ea8d948f2138cb884bc0e907936cd
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 15:05:49 2023 -0500
+
+    Agregando style.css al index.html
+
+commit 22b93f054ebc4f5ab91b4c0e0c12735d8b395f3f
+Merge: 0bd5950 79b2dc2
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 14:55:04 2023 -0500
+
+    Merge branch 'js'
+
+commit 79b2dc233c53802a08fac3591759163cc05929d3
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 14:50:33 2023 -0500
+
+    Creando index.js
+
+commit 0bd5950d490fefc30a52a655bafe3bef95421812
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 14:43:20 2023 -0500
+
+    Creando style.css
+
+commit 4a0ae7ee4218eb2ec99ffe3bf18e177f8f68055d
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 14:40:29 2023 -0500
+
+    Creando index.html
+
+commit 2c01cda8cf54fa9c6508660e7f18b6ad848787ea
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 14:29:34 2023 -0500
+
+    Ignorando archivos .exe
+
+commit d50d291b4055e56652d4742e71e13b9e768ddc65
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 14:25:23 2023 -0500
+
+    Actualizando titulo
+
+commit 9b5c35a5afba9cd6855c8c955b265900bb2ee713
+Author: grossocamilo22 <102308509+grossocamilo22@users.noreply.github.com>
+Date:   Sat Oct 28 14:09:26 2023 -0500
+
+    creando licencia de repositorio
+
+commit 284bc489bfc397fa9a51642dd836f3b914adde8c
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 14:02:37 2023 -0500
+
+    Agregando más contenido
+
+commit 2b108f47a1a40891b2aa5bf7f108bf7bc9cd608f
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 13:54:30 2023 -0500
+
+    mensaje descriptivo del cambio
+
+commit 2c6bf521892510570f558e56f49170e7708a9b3d
+Author: Juan Camilo <grosso.juan@correounivalle.edu.co>
+Date:   Sat Oct 28 13:50:35 2023 -0500
+
+    Primer commit
